@@ -1,0 +1,11 @@
+name,unit,category,brand,stock,status,image
+Wireless Mouse,pieces,Electronics,Logitech,150,active,https://example.com/mouse.jpg
+USB Cable,pieces,Accessories,Anker,200,active,https://example.com/usb.jpg
+Office Chair,furniture,Office,ErgoMax,25,active,https://example.com/chair.jpg
+Laptop Stand,pieces,Accessories,RAIN,75,active,https://example.com/stand.jpg
+Bluetooth Speaker,pieces,Electronics,JBL,50,active,https://example.com/speaker.jpg
+Desk Lamp,pieces,Office,Philips,30,active,https://example.com/lamp.jpg
+Web Camera,pieces,Electronics,Logitech,40,active,https://example.com/camera.jpg
+Notebook,pieces,Stationery,Sharp,500,active,https://example.com/notebook.jpg
+Monitor 24",pieces,Electronics,Dell,20,active,https://example.com/monitor.jpg
+Keyboard,pieces,Electronics,Corsair,60,active,https://example.com/keyboard.jpg
