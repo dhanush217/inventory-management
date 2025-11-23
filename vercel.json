@@ -1,1 +1,1 @@
-{"builds": [{"src": "frontend/package.json", "use": "@vercel/static-build", "config": {"distDir": "build"}}], "routes": [{"src": "/(.*)", "dest": "/build/$1"}], "framework": "create-react-app", "buildCommand": "cd frontend && npm install && npm run build"}
+{"builds": [{"src": "frontend/package.json", "use": "@vercel/static-build", "config": {"distDir": "build"}}], "routes": [{"src": "/(.*)", "dest": "/build/$1"}]}
